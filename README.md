@@ -15,4 +15,6 @@ water treatment
 <img width="569" height="394" alt="image" src="https://github.com/user-attachments/assets/25a4ee30-d983-4ce4-9a50-88b5abe52e64" />
 
 <img width="313" height="385" alt="image" src="https://github.com/user-attachments/assets/2a6bc2f7-2418-44ce-a911-65258bd1417f" />
+<img width="314" height="204" alt="image" src="https://github.com/user-attachments/assets/a561d932-fda7-4c32-aa51-b77372971131" />
+
 
